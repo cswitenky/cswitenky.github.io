@@ -1,4 +1,4 @@
-baseurl = "https://cswitenky.github.io"
+baseurl = "https://cswitenky.github.io/home"
 title = "Connor Switenky"
 theme = "hugo-coder"
 languagecode = "en"
@@ -64,12 +64,12 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "home/posts/"
 [[menu.main]]
   name = "Projects"
   weight = 2
-  url = "projects/"
+  url = "home/projects/"
 [[menu.main]]
   name = "About"
   weight = 3
-  url = "about/"
+  url = "home/about/"
