@@ -11,7 +11,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "cswitenky"
+#disqusShortname = "cswitenky"
 
 [params]
   author = "Connor Switenky"
