@@ -1,4 +1,4 @@
-baseurl = "https://www.switenky.com"
+baseurl = "https://www.switenky.com/home"
 title = "Connor Switenky"
 theme = "hugo-coder"
 languagecode = "en"
