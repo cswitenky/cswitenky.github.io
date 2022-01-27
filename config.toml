@@ -64,12 +64,12 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "home/posts/"
+  url  = "posts/"
 [[menu.main]]
   name = "Projects"
   weight = 2
-  url = "home/projects/"
+  url = "projects/"
 [[menu.main]]
   name = "About"
   weight = 3
-  url = "home/about/"
+  url = "about/"
