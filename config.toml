@@ -1,4 +1,5 @@
 baseurl = "https://www.switenky.com/home"
+canonifyURLs = "true"
 title = "Connor Switenky"
 theme = "hugo-coder"
 languagecode = "en"
