@@ -1,10 +1,11 @@
 +++
 author = "Connor Switenky"
-title = "Smart-Glasses"
-date = "2022-04-23"
+title = "First Post"
+date = "2021-01-26"
 description = "My first post"
 tags = [
-    "accessibility"
+    "test",
+    "blog"
 ]
 +++
 
