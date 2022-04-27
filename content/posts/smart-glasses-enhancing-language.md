@@ -12,7 +12,7 @@ tags = [
 
 ![a black woman smiling while wearing hololens](/images/smart_glasses/hololens_user.jpg)
 
-I work as a Software Engineer for XR: Accessibility Solutions Lab for 3 years now. This lab falls under the [Center on Culture and Language](https://www.rit.edu/ntid/nccl) (CCL) at [National Technical Institute for the Deaf](https://ntid.rit.edu) (NTID) in Rochester, New York. Center on Culture and Language's ultimate mission is to:
+I work as a Software Engineer for XR: Accessibility Solutions Lab. This lab falls under the [Center on Culture and Language](https://www.rit.edu/ntid/nccl) (CCL) at [National Technical Institute for the Deaf](https://ntid.rit.edu) (NTID) in Rochester, New York. Center on Culture and Language's ultimate mission is to:
 
 ## Promote access and education through research, development, and mentorship related to cultural and linguistic characteristics and processes of deaf and hard of hearing communities
 *Source: https://www.rit.edu/ntid/nccl*
