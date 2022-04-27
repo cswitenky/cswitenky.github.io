@@ -43,7 +43,10 @@ At the moment, our software is compatible with three XR products:
 
 Rochester Institute of Technology hosts [Imagine RIT](https://www.rit.edu/imagine/) every April, where visitors can see students' hard work on exhibitions. We did this and won a $5,000 award from the TAD competition. [Learn more about this competition and our victory!](https://www.rit.edu/news/three-student-teams-push-boundaries-improve-society-new-competition)
 
-![](/images/smart_glasses/stage_group.jpg)
+![a group of people holding up a $5,000 award](/images/smart_glasses/stage_group.jpg)
+
+![connor is demonstrating smart glasses to a crowd](/images/smart_glasses/demonstrating0.jpg)
+
 
 Our project is funded by various sources such as NTID, National Science Foundation (NSF), awards, and more.
 
